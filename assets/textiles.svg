@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Textiles icon">
+  <g fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="12" y="16" width="40" height="32" rx="3" />
+    <path d="M12 24h40" />
+    <path d="M12 32h40" />
+    <path d="M12 40h40" />
+    <path d="M22 16v32" />
+    <path d="M32 16v32" />
+    <path d="M42 16v32" />
+  </g>
+</svg>
